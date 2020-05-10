@@ -1,0 +1,85 @@
+.container {
+    display: flex; 
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center; 
+   
+
+}
+.container div {
+    border-radius: 50%;
+    padding: 80px;
+    margin: 20px;
+}
+
+.header {
+    text-align: center;
+    font-family: 'Montserrat', bold ;
+    font-size: 2em;
+    color: #2D2926FF;
+}
+ h1 {
+    border-bottom: 2px solid #2D2926FF;
+ }
+
+.box-1 {
+  background: linear-gradient(90deg, #6B2C91 50%, #F69487 50%);
+}
+.box-2 {
+    background: linear-gradient(90deg, #F15C2B 50%, #000000 50%);
+}
+.box-3 {
+    background: linear-gradient(90deg, #C9D1B2 50%, #faf8f8 50%);
+}
+.box-4 {
+    background: linear-gradient(90deg, #273B89 50%, #F36F21 50%);
+}
+.box-5 {
+    background: linear-gradient(90deg, #F15A2B 50%, #FCCFA5 50%);
+}
+.box-6 {
+    background: linear-gradient(90deg, #233F87 50%, #F0A5B0 50%);
+}
+.box-7 {
+    background: linear-gradient(90deg, #41B3A1 50%, #E27D60 50%);
+}
+.box-8 {
+    background: linear-gradient(90deg, #66FCF1 50%, #0B0C10 50%);
+}
+.box-9 {
+    background: linear-gradient(90deg, #e1b382 50%, #2d545e 50%);
+}
+.box-10 {
+    background: linear-gradient(90deg, #ff5e6c 50%, #feb300 50%);
+}
+.box-11 {
+    background: linear-gradient(90deg, #FC766AFF 50%, #5B84B1FF 50%);
+}
+.box-12 {
+    background: linear-gradient(90deg, #00203FFF 50%, #ADEFD1FF 50%);
+}
+.box-13 {
+    background: linear-gradient(90deg, #D198C5FF 50%, #E0C568FF 50%);
+}
+.box-14 {
+    background: linear-gradient(90deg, #101820FF 50%, #FEE715FF 50%);
+}
+.box-15 {
+    background: linear-gradient(90deg, #2D2926FF 50%, #E94B3CFF 50%);
+}
+.box-16 {
+    background: linear-gradient(90deg, #FCF6F5FF 50%, #990011FF 50%);
+}
+.box-17 {
+    background: linear-gradient(90deg, #FAEBEFFF 50%, #333D79FF 50%);
+}
+.box-18 {
+    background: linear-gradient(90deg, #DF6589FF 50%, #3C1053FF 50%);
+}
+.box-19 {
+    background: linear-gradient(90deg, #00B1D2FF 50%, #FDDB27FF 50%);
+}
+.box-20 {
+    background: linear-gradient(90deg, #FFD662FF 50%, #00539CFF 50%);
+}
